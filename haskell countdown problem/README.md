@@ -8,6 +8,7 @@ All numbers must be positive integers (including intermediate results), and each
 > Implement Haskell functions that solve the countdown problem efficiently:
   - Solution should reject expressions that fail to evaluate and not evaluate redundant expressions (exploiting algebraic properties to reduce the number of generated expressions).
   - Assume only the following operators are used in constructing expressions: [+, -, *, /] from a list of N positive integers and one positive integer value that must be calculated.
+> Note: solution depends on the previous practical
 
 > For example,
 - given the integer array: [1, 3, 7, 10, 25, 50] and arithmetic operators: [+, -, *, /], construct an expression whose value is: 765:
