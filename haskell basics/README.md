@@ -1,6 +1,6 @@
-##Haskell basics project
+## Haskell basics project
 
-###Functions
+### Functions
 
 - product
   - computes the product of a list of numbers.
