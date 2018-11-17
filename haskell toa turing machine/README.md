@@ -26,6 +26,7 @@ The Turing machine terminates after the last symbol in the string of symbols has
 - The sequence of possible Turing machine state configurations that are used during the computation of f with the input string: aba
   - Input string : "aba"
 > Resulting Configurations:
+
 | CurrentState|InputSymbol|OutputSymbol|NewState|**Move/shift**|
 | ------------|:---------:|-----------:|-------:|-------------:|
 | 1 | A | 'a' | ' ' | B | right |
