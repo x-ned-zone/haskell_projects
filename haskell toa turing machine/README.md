@@ -34,7 +34,7 @@ The Turing machine terminates after the last symbol in the string of symbols has
 | 3 | B | 'a' | 'a' | B | right |
 | 4 | B | ' ' | ' ' | C | left  |
 | 5 | C | 'a' | ' ' | D | left  |
-| 6 | D | 'b' | 'b' | > | left  |
+| 6 | D | 'b' | 'b' | D | left  |
 | 7 | D | ' ' | ' ' | A | right |
 | 8 | A | 'b' | ' ' | E | right |
 | 9 | E | ' ' | ' ' | F | left  |
